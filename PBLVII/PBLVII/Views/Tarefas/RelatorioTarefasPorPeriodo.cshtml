@@ -1,0 +1,55 @@
+﻿@model IEnumerable<PBLVII.Models.Tarefa>
+
+@{
+    ViewBag.Title = "RelatorioTarefasPorPeriodo";
+    Layout = "~/Views/Shared/LayoutRelatorios.cshtml";
+}
+
+<div class="col-md-6 text-center">
+    <h2> Relatório de Tarefas Concluídas</h2>
+    <h4>Por Período</h4>
+
+    <table class="table table-bordered">
+        <tr>
+            <th>
+                Programador
+            </th>
+            <th>
+                Tarefa
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th>
+                Data Inicial
+            </th>
+            <th>
+                Data Final
+            </th>           
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Programador.Nome)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nome)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Status)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DataInicio)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DataFim)
+                </td>
+            </tr>
+        }
+
+    </table>
+</div>
+
+

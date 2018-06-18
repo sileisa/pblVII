@@ -1,0 +1,35 @@
+﻿@model PBLVII.Models.Tarefa
+@{
+    ViewBag.Title = "BuscarTarefaPorPeriodo";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@using (Html.BeginForm())
+{
+    <div class="container">
+        <h2>Buscar Tarefa Por Período</h2>
+
+        <div class="row">
+            <div class="form-group">
+                @Html.LabelFor(model => model.DataInicio, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    <input type="date" name="DataInicio" id="DataInicio" class="form-control" />
+                    @Html.ValidationMessageFor(model => model.DataInicio, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.DataFim, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    <input type="date" name="DataFim" id="DataFim" class="form-control" />
+                    @Html.ValidationMessageFor(model => model.DataFim, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+        <!-- @Html.ActionLink("Gerar PDF", "RelatorioTarefasPorPeriodo", new { geraPDF = true, @class = "btn btn-default" })-->
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Gerar PDF" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}

@@ -1,0 +1,116 @@
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\ApplicationInsights.config
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\PBLVII.dll.config
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\PBLVII.dll
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\PBLVII.pdb
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\Antlr3.Runtime.dll
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\Microsoft.AI.Agent.Intercept.dll
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\Microsoft.AI.DependencyCollector.dll
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\Microsoft.AI.Web.dll
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\Microsoft.AI.WindowsServer.dll
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\Microsoft.ApplicationInsights.dll
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\Microsoft.Web.Infrastructure.dll
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\Newtonsoft.Json.dll
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\System.Web.Helpers.dll
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\System.Web.Mvc.dll
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\System.Web.Optimization.dll
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\System.Web.Razor.dll
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\System.Web.WebPages.Deployment.dll
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\System.Web.WebPages.dll
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\System.Web.WebPages.Razor.dll
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\WebGrease.dll
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\System.Web.Helpers.xml
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\System.Web.Mvc.xml
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\System.Web.Optimization.xml
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\System.Web.Razor.xml
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\System.Web.WebPages.xml
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\System.Web.WebPages.Deployment.xml
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\System.Web.WebPages.Razor.xml
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\Antlr3.Runtime.pdb
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\Newtonsoft.Json.xml
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\Microsoft.ApplicationInsights.xml
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\Microsoft.AI.DependencyCollector.xml
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\Microsoft.AI.WindowsServer.xml
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\Microsoft.AI.Web.xml
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\pt-br\System.Web.Helpers.resources.dll
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\pt-br\System.Web.Mvc.resources.dll
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\pt-br\System.Web.Optimization.resources.dll
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\pt-br\System.Web.Razor.resources.dll
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\pt-br\System.Web.WebPages.resources.dll
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\obj\Debug\PBLVII.csprojResolveAssemblyReference.cache
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\obj\Debug\PBLVII.csproj.CoreCompileInputs.cache
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\obj\Debug\PBLVII.dll
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\obj\Debug\PBLVII.pdb
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\EntityFramework.dll
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\EntityFramework.SqlServer.dll
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\EntityFramework.xml
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\EntityFramework.SqlServer.xml
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\PagedList.dll
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\PagedList.Mvc.dll
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\Rotativa.dll
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\PagedList.xml
+C:\A SILEISA\SENAI\DS II - C#\PBLVII\PBLVII\PBLVII\bin\PagedList.Mvc.xml
+E:\PBLVII\PBLVII\PBLVII\bin\ApplicationInsights.config
+E:\PBLVII\PBLVII\PBLVII\bin\PBLVII.dll.config
+E:\PBLVII\PBLVII\PBLVII\bin\PBLVII.dll
+E:\PBLVII\PBLVII\PBLVII\bin\PBLVII.pdb
+E:\PBLVII\PBLVII\PBLVII\bin\Antlr3.Runtime.dll
+E:\PBLVII\PBLVII\PBLVII\bin\EntityFramework.dll
+E:\PBLVII\PBLVII\PBLVII\bin\EntityFramework.SqlServer.dll
+E:\PBLVII\PBLVII\PBLVII\bin\Microsoft.AI.Agent.Intercept.dll
+E:\PBLVII\PBLVII\PBLVII\bin\Microsoft.AI.DependencyCollector.dll
+E:\PBLVII\PBLVII\PBLVII\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\PBLVII\PBLVII\PBLVII\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\PBLVII\PBLVII\PBLVII\bin\Microsoft.AI.Web.dll
+E:\PBLVII\PBLVII\PBLVII\bin\Microsoft.AI.WindowsServer.dll
+E:\PBLVII\PBLVII\PBLVII\bin\Microsoft.ApplicationInsights.dll
+E:\PBLVII\PBLVII\PBLVII\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PBLVII\PBLVII\PBLVII\bin\Microsoft.Web.Infrastructure.dll
+E:\PBLVII\PBLVII\PBLVII\bin\Newtonsoft.Json.dll
+E:\PBLVII\PBLVII\PBLVII\bin\PagedList.dll
+E:\PBLVII\PBLVII\PBLVII\bin\PagedList.Mvc.dll
+E:\PBLVII\PBLVII\PBLVII\bin\Rotativa.dll
+E:\PBLVII\PBLVII\PBLVII\bin\System.Web.Helpers.dll
+E:\PBLVII\PBLVII\PBLVII\bin\System.Web.Mvc.dll
+E:\PBLVII\PBLVII\PBLVII\bin\System.Web.Optimization.dll
+E:\PBLVII\PBLVII\PBLVII\bin\System.Web.Razor.dll
+E:\PBLVII\PBLVII\PBLVII\bin\System.Web.WebPages.Deployment.dll
+E:\PBLVII\PBLVII\PBLVII\bin\System.Web.WebPages.dll
+E:\PBLVII\PBLVII\PBLVII\bin\System.Web.WebPages.Razor.dll
+E:\PBLVII\PBLVII\PBLVII\bin\WebGrease.dll
+E:\PBLVII\PBLVII\PBLVII\bin\EntityFramework.xml
+E:\PBLVII\PBLVII\PBLVII\bin\EntityFramework.SqlServer.xml
+E:\PBLVII\PBLVII\PBLVII\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PBLVII\PBLVII\PBLVII\bin\PagedList.xml
+E:\PBLVII\PBLVII\PBLVII\bin\PagedList.Mvc.xml
+E:\PBLVII\PBLVII\PBLVII\bin\System.Web.Helpers.xml
+E:\PBLVII\PBLVII\PBLVII\bin\System.Web.Mvc.xml
+E:\PBLVII\PBLVII\PBLVII\bin\System.Web.Optimization.xml
+E:\PBLVII\PBLVII\PBLVII\bin\System.Web.Razor.xml
+E:\PBLVII\PBLVII\PBLVII\bin\System.Web.WebPages.xml
+E:\PBLVII\PBLVII\PBLVII\bin\System.Web.WebPages.Deployment.xml
+E:\PBLVII\PBLVII\PBLVII\bin\System.Web.WebPages.Razor.xml
+E:\PBLVII\PBLVII\PBLVII\bin\Antlr3.Runtime.pdb
+E:\PBLVII\PBLVII\PBLVII\bin\Newtonsoft.Json.xml
+E:\PBLVII\PBLVII\PBLVII\bin\Microsoft.ApplicationInsights.xml
+E:\PBLVII\PBLVII\PBLVII\bin\Microsoft.AI.DependencyCollector.xml
+E:\PBLVII\PBLVII\PBLVII\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\PBLVII\PBLVII\PBLVII\bin\Microsoft.AI.WindowsServer.xml
+E:\PBLVII\PBLVII\PBLVII\bin\Microsoft.AI.Web.xml
+E:\PBLVII\PBLVII\PBLVII\bin\pt-br\System.Web.Helpers.resources.dll
+E:\PBLVII\PBLVII\PBLVII\bin\pt-br\System.Web.Mvc.resources.dll
+E:\PBLVII\PBLVII\PBLVII\bin\pt-br\System.Web.Optimization.resources.dll
+E:\PBLVII\PBLVII\PBLVII\bin\pt-br\System.Web.Razor.resources.dll
+E:\PBLVII\PBLVII\PBLVII\bin\pt-br\System.Web.WebPages.resources.dll
+E:\PBLVII\PBLVII\PBLVII\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+E:\PBLVII\PBLVII\PBLVII\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+E:\PBLVII\PBLVII\PBLVII\obj\Debug\PBLVII.csprojResolveAssemblyReference.cache
+E:\PBLVII\PBLVII\PBLVII\obj\Debug\PBLVII.csproj.CoreCompileInputs.cache
+E:\PBLVII\PBLVII\PBLVII\obj\Debug\PBLVII.dll
+E:\PBLVII\PBLVII\PBLVII\obj\Debug\PBLVII.pdb
